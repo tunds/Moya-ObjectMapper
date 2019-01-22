@@ -19,7 +19,7 @@ DerivedData
 
 **.DS_Store
 
-**/xcshareddata/*
+# **/xcshareddata/*
 
 # CocoaPods
 #
